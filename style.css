@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -79,10 +79,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
 
-
-
+/*
 * {
     margin: 0;
     padding: 0;
@@ -128,9 +127,10 @@ body {
 }
 .keytext {
     font-size: 1.5em;
-}
+} */
 
 /* Media query for smaller screens */
+/*
 @media (max-width: 600px) {
     #box {
         width: 90%;
@@ -143,3 +143,4 @@ body {
     }
 }
 
+*/
