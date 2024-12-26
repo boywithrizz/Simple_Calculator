@@ -48,3 +48,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Details
+
+- Authored By - Ayush Yadav
+- Mail - beatscupltors@gmail.com
